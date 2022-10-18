@@ -1,0 +1,10 @@
+body{
+    margin: 0%;
+    padding: auto;
+}
+
+.search-bar{
+    width: 300px;
+    border-style: double;
+
+}
